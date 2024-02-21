@@ -42,20 +42,26 @@ public class ArrayPlayground {
 			System.err.print(numArr[i] + ",");
 			
 		} else {
-			System.err.print(numArr[i]);
+			System.err.println(numArr[i]);
 			
 		}
 
 
 
 
-
 	}
+	
+	
+	System.out.println("---------------------------------------");
 
 
-	System.out.println("---------------------");
 
 }
+
+
+	
+
+
 
 }
 
